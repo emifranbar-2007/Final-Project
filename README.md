@@ -66,7 +66,7 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Negative Prompt:** `extra limbs, deformed faces, unnatural skin texture, render`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `7.0` | Seed `91823`
 * **Muestra:**
-![Equipo de Investigacion](Diverse%20Team%20of%20Biogenetics%20Researchers.jpg)
+![Equipo de Investigacion](Equipo.jpg)
 
 
 
