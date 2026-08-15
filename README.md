@@ -90,7 +90,7 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 
 
 2. **Audio Logo (5 seg):**
-* **Guion:** *"Ecosfera. Tecnología que echa raíces."*
+* **Guion:** *"Ecosfera. Tecnología que genera raíces."*
 * **Parámetros:** Voz masculina grave | Tono: Cálido | Efectos: Fondo ambiental sintético con frecuencia baja.
 * **Reproductor:**
 <audio controls src="./Identidad%20Sonora.mp3"></audio>
