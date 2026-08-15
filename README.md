@@ -2,7 +2,7 @@
 
 **Estudiante:** Emiliano Franco Barbuto  
 **Fecha:** Agosto 2026  
-**Programa:** Certificación en Introduccion a la Inteligencia Artificial   
+**Programa:** Introduccion a la Inteligencia Artificial   
 
 ---
 
