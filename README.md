@@ -57,7 +57,7 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Negative Prompt:** `blur, distortion, low quality, oversaturated, human hands`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `7.5` | Seed `42819`
 * **Muestra:**
-  ![Hero Banner](Tree%20in%20capsule.jpg)
+![Hero Banner](Tree%20in%20capsule.jpg)
 
 
 
@@ -66,7 +66,7 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Negative Prompt:** `extra limbs, deformed faces, unnatural skin texture, render`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `7.0` | Seed `91823`
 * **Muestra:**
-  ![Equipo de Investigacion](Diverse%20Team%20of%20Biogenetics%20Researchers.jpg)
+![Equipo de Investigacion](Diverse%20Team%20of%20Biogenetics%20Researchers.jpg)
 
 
 
@@ -86,14 +86,14 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Guion:** *"En Ecosfera, no solo imaginamos un futuro verde: lo codificamos. Descubre la primera biotecnología capaz de acelerar la reforestación nativa."*
 * **Parámetros:** Voz femenina institucional | Tono: Inspirador / Corporativo | Ritmo: 120 WPM | Estabilidad: 75% | Claridad: 85%.
 * **Reproductor:**
-  <audio controls src="./Locucion%20Comercial.mp3"></audio>
+<audio controls src="./Locucion%20Comercial.mp3"></audio>
 
 
 2. **Audio Logo (5 seg):**
 * **Guion:** *"Ecosfera. Tecnología que echa raíces."*
 * **Parámetros:** Voz masculina grave | Tono: Cálido | Efectos: Fondo ambiental sintético con frecuencia baja.
 * **Reproductor:**
-  <audio controls src="./Identidad%20Sonora.mp3"></audio>
+<audio controls src="./Identidad%20Sonora.mp3"></audio>
 
 
 
