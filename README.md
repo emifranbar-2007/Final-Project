@@ -56,7 +56,8 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Prompt:** `A futuristic bio-reactor capsule generating green forest saplings inside a clean minimal laboratory, cinematic lighting, photorealistic, 8k resolution, shot on 35mm lens, corporate sustainability aesthetic`
 * **Negative Prompt:** `blur, distortion, low quality, oversaturated, human hands`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `7.5` | Seed `42819`
-* **Muestra:**![Hero Banner](Tree_in_capsule.png)
+* **Muestra:**
+  ![Hero Banner](Tree_in_capsule.png)
 
 
 
@@ -64,7 +65,8 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Prompt:** `A diverse team of biogenetics researchers (latin american, asian, caucasian) inspecting a glowing plant seedling inside a modern greenhouse, soft natural sunlight, professional corporate photography`
 * **Negative Prompt:** `extra limbs, deformed faces, unnatural skin texture, render`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `7.0` | Seed `91823`
-* **Muestra:**![Equipo de Investigacion](Diverse_Team_of_Biogenetics_Researchers.png)
+* **Muestra:**
+  ![Equipo de Investigacion](Diverse_Team_of_Biogenetics_Researchers.png)
 
 
 
@@ -72,7 +74,8 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 * **Prompt:** `Aerial drone view of a lush restored rainforest merging seamlessly with a smart sustainable city, morning fog, golden hour lighting, hyperrealistic`
 * **Negative Prompt:** `dystopian, smog, pollution, industrial chimneys`
 * **Parámetros:** Aspect Ratio `16:9` | CFG Scale `8.0` | Seed `11029`
-* **Muestra:**![Visualizacion de Impacto](Aerial_Drone_View.png)
+* **Muestra:**
+  ![Visualizacion de Impacto](Aerial_Drone_View.png)
 
 
 
@@ -82,13 +85,15 @@ El presente proyecto simula la consultoría técnica y creativa para **Ecosfera*
 1. **Locución Comercial (15 seg):**
 * **Guion:** *"En Ecosfera, no solo imaginamos un futuro verde: lo codificamos. Descubre la primera biotecnología capaz de acelerar la reforestación nativa."*
 * **Parámetros:** Voz femenina institucional | Tono: Inspirador / Corporativo | Ritmo: 120 WPM | Estabilidad: 75% | Claridad: 85%.
-* **Reproductor:**<audio controls src="Locucion_Comercial.mp3"></audio>
+* **Reproductor:**
+  <audio controls src="Locucion_Comercial.mp3"></audio>
 
 
 2. **Audio Logo (5 seg):**
 * **Guion:** *"Ecosfera. Tecnología que echa raíces."*
 * **Parámetros:** Voz masculina grave | Tono: Cálido | Efectos: Fondo ambiental sintético con frecuencia baja.
-* **Reproductor:**<audio controls src="Identidad_Sonora.mp3"></audio>
+* **Reproductor:**
+  <audio controls src="Identidad_Sonora.mp3"></audio>
 
 
 
